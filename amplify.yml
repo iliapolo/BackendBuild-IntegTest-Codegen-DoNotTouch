@@ -6,7 +6,7 @@ backend:
       commands:
         - nvm install 22
         - nvm use 22
-        - npm install -g @aws-amplify/cli@14.5.0-rc.b96c3c8fd02d4ef.0
+        - npm install -g @aws-amplify/cli@latest
     # END
     build:
       commands:
